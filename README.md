@@ -2,6 +2,12 @@
 Реализовать можно на любом языке программирования.
 <a href="https://codeclimate.com/github/FetisovPavel/project-for-devsoft/maintainability"><img src="https://api.codeclimate.com/v1/badges/617daa5d6acb80f85746/maintainability" /></a>
 
+## Демонстрация игры
+
+Для демонстрации различных исходов игры, вы можете посмотреть запись на [Asciinema](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz).
+
+[![asciicast](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz.png)](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz)
+
 1. Создание приветствия. Поприветствуйте пользователя в игре. Спросите у пользователя его имя и поприветствуйте его по имени: Welcome to the Brain Games! May I have your name? John Hello, John!
 Код, реализующий этот функционал, должен быть в отдельном файле src/cli.* относительно директории проекта, а в исполняемом файле bin/brain-games.* сделайте вызов. Для этого код нужно поместить в функцию и импортировать ее в исполняемый файл.
 
