@@ -4,9 +4,9 @@
 
 ## Демонстрация игры
 
-Для демонстрации различных исходов игры, вы можете посмотреть запись на [Asciinema](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz).
+Для демонстрации различных исходов игры, вы можете посмотреть запись на [Asciinema](https://asciinema.org/a/lZ0Ugm2Mc1pzChKwlw3YMxvUa).
 
-[![asciicast](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz.png)](https://asciinema.org/a/FsDwadL5G949cs6KvTe9U28Dz)
+[![asciicast](https://asciinema.org/a/lZ0Ugm2Mc1pzChKwlw3YMxvUa.png)](https://asciinema.org/a/lZ0Ugm2Mc1pzChKwlw3YMxvUa)
 
 1. Создание приветствия. Поприветствуйте пользователя в игре. Спросите у пользователя его имя и поприветствуйте его по имени: Welcome to the Brain Games! May I have your name? John Hello, John!
 Код, реализующий этот функционал, должен быть в отдельном файле src/cli.* относительно директории проекта, а в исполняемом файле bin/brain-games.* сделайте вызов. Для этого код нужно поместить в функцию и импортировать ее в исполняемый файл.
