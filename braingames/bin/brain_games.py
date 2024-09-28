@@ -1,6 +1,6 @@
 from braingames.src.cli import welcome_user
 from braingames.src.engine import run_game
-from braingames.src.games.gcd import generate_lcm_question
+from braingames.src.games.lcm import generate_lcm_question
 from braingames.src.games.progression import generate_geometric_progression
 
 
